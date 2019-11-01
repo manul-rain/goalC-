@@ -1,0 +1,10 @@
+C:\Users\murat\source\repos\Ch03_SplitCost\Ch03_SplitCost\bin\Debug\Ch03_SplitCost.exe.config
+C:\Users\murat\source\repos\Ch03_SplitCost\Ch03_SplitCost\bin\Debug\Ch03_SplitCost.exe
+C:\Users\murat\source\repos\Ch03_SplitCost\Ch03_SplitCost\bin\Debug\Ch03_SplitCost.pdb
+C:\Users\murat\source\repos\Ch03_SplitCost\Ch03_SplitCost\obj\Debug\Ch03_SplitCost.csprojAssemblyReference.cache
+C:\Users\murat\source\repos\Ch03_SplitCost\Ch03_SplitCost\obj\Debug\Ch03_SplitCost.Form1.resources
+C:\Users\murat\source\repos\Ch03_SplitCost\Ch03_SplitCost\obj\Debug\Ch03_SplitCost.Properties.Resources.resources
+C:\Users\murat\source\repos\Ch03_SplitCost\Ch03_SplitCost\obj\Debug\Ch03_SplitCost.csproj.GenerateResource.cache
+C:\Users\murat\source\repos\Ch03_SplitCost\Ch03_SplitCost\obj\Debug\Ch03_SplitCost.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\Ch03_SplitCost\Ch03_SplitCost\obj\Debug\Ch03_SplitCost.exe
+C:\Users\murat\source\repos\Ch03_SplitCost\Ch03_SplitCost\obj\Debug\Ch03_SplitCost.pdb

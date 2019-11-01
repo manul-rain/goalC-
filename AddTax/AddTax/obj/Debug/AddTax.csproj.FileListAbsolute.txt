@@ -1,0 +1,10 @@
+C:\Users\murat\source\repos\AddTax\AddTax\bin\Debug\AddTax.exe.config
+C:\Users\murat\source\repos\AddTax\AddTax\bin\Debug\AddTax.exe
+C:\Users\murat\source\repos\AddTax\AddTax\bin\Debug\AddTax.pdb
+C:\Users\murat\source\repos\AddTax\AddTax\obj\Debug\AddTax.csprojAssemblyReference.cache
+C:\Users\murat\source\repos\AddTax\AddTax\obj\Debug\AddTax.Form1.resources
+C:\Users\murat\source\repos\AddTax\AddTax\obj\Debug\AddTax.Properties.Resources.resources
+C:\Users\murat\source\repos\AddTax\AddTax\obj\Debug\AddTax.csproj.GenerateResource.cache
+C:\Users\murat\source\repos\AddTax\AddTax\obj\Debug\AddTax.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\AddTax\AddTax\obj\Debug\AddTax.exe
+C:\Users\murat\source\repos\AddTax\AddTax\obj\Debug\AddTax.pdb

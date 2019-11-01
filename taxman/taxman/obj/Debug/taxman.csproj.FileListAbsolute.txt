@@ -1,0 +1,10 @@
+C:\Users\murat\source\repos\taxman\taxman\bin\Debug\taxman.exe.config
+C:\Users\murat\source\repos\taxman\taxman\bin\Debug\taxman.exe
+C:\Users\murat\source\repos\taxman\taxman\bin\Debug\taxman.pdb
+C:\Users\murat\source\repos\taxman\taxman\obj\Debug\taxman.csprojAssemblyReference.cache
+C:\Users\murat\source\repos\taxman\taxman\obj\Debug\taxman.Form1.resources
+C:\Users\murat\source\repos\taxman\taxman\obj\Debug\taxman.Properties.Resources.resources
+C:\Users\murat\source\repos\taxman\taxman\obj\Debug\taxman.csproj.GenerateResource.cache
+C:\Users\murat\source\repos\taxman\taxman\obj\Debug\taxman.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\taxman\taxman\obj\Debug\taxman.exe
+C:\Users\murat\source\repos\taxman\taxman\obj\Debug\taxman.pdb
